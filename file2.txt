@@ -1,4 +1,0 @@
-This is file 2
-
-this is line 1
-line 2
